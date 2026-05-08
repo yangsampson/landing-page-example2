@@ -72,7 +72,7 @@ export default function PharmacyLandingPage() {
             <div className="lg:col-span-2">
               <div className="relative p-2 bg-white shadow-2xl border border-slate-100 rounded-lg">
                 <img 
-                  src="Image/StoreBBRX.jpg" 
+                  src="/image/StoreBBRX.jpg" 
                   alt="BBRx Pharmacy Sunset Park" 
                   className="rounded shadow-inner w-full object-cover"
                 />
