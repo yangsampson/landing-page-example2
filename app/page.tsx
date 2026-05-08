@@ -31,7 +31,7 @@ export default function PharmacyLandingPage() {
         <div className="max-w-7xl mx-auto px-6 h-24 flex items-center justify-between">
           <div className="flex items-center gap-4">
             <img 
-              src="/image/LogoBBRX.png" 
+              src="/image/LogoBBRx.png" 
               alt="BBRx Plus Pharmacy" 
               className="h-16 w-auto object-contain"
             />
@@ -72,7 +72,7 @@ export default function PharmacyLandingPage() {
             <div className="lg:col-span-2">
               <div className="relative p-2 bg-white shadow-2xl border border-slate-100 rounded-lg">
                 <img 
-                  src="/image/StoreBBRX.jpg" 
+                  src="/image/StoreBBRx.jpg" 
                   alt="BBRx Pharmacy Sunset Park" 
                   className="rounded shadow-inner w-full object-cover"
                 />
