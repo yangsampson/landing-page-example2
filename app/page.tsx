@@ -152,7 +152,7 @@ export default function PharmacyLandingPage() {
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 mb-20 font-sans">
           <div>
             <div className="flex items-center gap-2 mb-6">
-               <img src="/image/LogoBBRX.png" alt="BBRx Logo" className="h-10 w-auto" />
+               <img src="/image/LogoBBRx.png" alt="BBRx Logo" className="h-10 w-auto" />
                <span className="text-xl font-serif font-bold tracking-tighter">BBRx Plus</span>
             </div>
             <p className="text-slate-600 text-sm leading-relaxed">
